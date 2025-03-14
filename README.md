@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ANPR and ATCC
+This project implements Automatic Traffic Counter and Classifier (ATCC) and Automatic Number Plate Recognition (ANPR) using computer vision and machine learning. ATCC detects, classifies, and counts vehicles while analyzing traffic patterns and estimating speed. ANPR captures license plates, applies OCR for number recognition, and identifies violations like wrong-side driving and helmet detection. The system integrates real-time processing, logging, and an admin dashboard for efficient traffic monitoring, enforcement, and smart city management. 🚦🚗
